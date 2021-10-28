@@ -1,5 +1,21 @@
 Atom II Features
 
+Admin Commands |
+
+*ONLY WORK ON ATOM II USERS*
+
+1. /bring <plrName> 
+2. /kill <plrName>
+3. /ban <plrName> --This is a TROLL ban, not a real ban. but it can trick the player into thinking they were detected.
+4. /ungodmode <plrName> --Turns off their godmode.
+5. /nofarm <plrName> --Turns off the player's autofarms.
+6. /freeze <plrName>
+7. /unfreeze <plrName>
+8. /cleartools <plrName> --Removes all the tools from the player's inventory (including equipped ones)
+9. /announce <message> --Announces a message to all Atom II players.
+10. /force <plrName> --Rapes player. (COMING SOON)
+
+|
 
 Combat |
 
